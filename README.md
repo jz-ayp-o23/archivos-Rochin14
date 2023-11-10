@@ -202,7 +202,7 @@ for file in files:
         print(f"{file.name} no existe.")
 ```
 
-¿Puedes verificar en el explorador de archivos que los resultados reportados por el programa son correctos?
+¿Puedes verificar en el explorador de archivos que los resultados reportados por el programa son correctos? Si se puede verificar
 
 
 ## Ejemplo: Verificar la frecuencia de palabras en un archivo
